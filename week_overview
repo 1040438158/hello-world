@@ -1,0 +1,7 @@
+mon:watch code,searching TLS/SSH connectiong
+tues:study NC26 module with  a wrong direction:use the external cpu-stm32
+wed:try to find out how to set uo the environment that provide for openCPU coding
+thuesday:try to findout the way to create TLS connect,and find the open source library.And set up the rtos environment for mebtls
+fir :searching mebtls ,the bug is due to VMware network.click using copy physical network solve the connect timeout error.
+sat:  plan: understand the code ,and remove the code to the firmware.
+sun:just for fun
