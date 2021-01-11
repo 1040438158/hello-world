@@ -1,0 +1,11 @@
+today i wakeup at 8.00am .as as rusult,i get in company in the last min-8.59am
+
+i learn about http protocal and write a note int csdn in the moring
+
+in the afternoon,i chance some parameters and made some small modifications of the demo that can be connect to aliIot perfectly.it took me almost 3h to complish it.
+
+medciot is different from aliIot.
+
+and then i study writting a demo share,and it need a lot of information.So i search some file about the bc26
+
+that's all 
